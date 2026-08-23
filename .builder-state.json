@@ -1,6 +1,6 @@
 {
-  "phase": "quality_passed",
-  "updated_at": "2026-08-23T22:42:19.466598+00:00",
+  "phase": "github_push_started",
+  "updated_at": "2026-08-23T22:42:43.296907+00:00",
   "slug": "flintcrest-audio-depot",
   "type": "shop",
   "package": "flintcresttrade.musical.flintcrestaudiodepot",
@@ -17,9 +17,10 @@
   "icon_primary": "#C94F1D",
   "icon_status": "imagegen",
   "icon_error": "generate-icon.sh exited 1",
-  "quality_attempt": 1,
+  "quality_attempt": 2,
   "quality_errors": 0,
   "quality_result_file": "/tmp/flintcrest-audio-depot/quality-result.txt",
   "build_exit_code": 0,
-  "build_result_file": "/tmp/flintcrest-audio-depot/build-result.txt"
+  "build_result_file": "/tmp/flintcrest-audio-depot/build-result.txt",
+  "build_attempt": 1
 }
